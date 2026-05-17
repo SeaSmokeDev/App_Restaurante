@@ -4,7 +4,6 @@ Aplicación de escritorio para la gestión de comandas en un restaurante/cafeter
 
 El proyecto está orientado a facilitar el trabajo diario de un establecimiento mediante la toma de comandas, gestión de mesas, productos, empleados y consulta del histórico de pedidos.
 
-> **Nota:** En mi currículum aparece como **App Restaurante** para que el propósito del proyecto se entienda de forma directa. El nombre interno de la aplicación es **DishDash**.
 
 ---
 
