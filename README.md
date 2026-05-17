@@ -138,7 +138,7 @@ La aplicación **no está preparada para ejecutarse directamente tras clonar el 
 
 - API REST en Java.
 - Base de datos MySQL.
-- Máquina virtual alojada en la nube.
+- Máquina virtual alojada en Azure.
 
 Por este motivo, el repositorio está orientado principalmente a mostrar:
 
